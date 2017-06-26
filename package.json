@@ -1,0 +1,9 @@
+{
+    "name" : "nodeserver1",
+    "version" : "1.0.0",
+    "scripts" :{
+        "start" : "node server.js"   
+    },
+    "author" : "Cooki2468",
+    "license" : "ISC"
+}
